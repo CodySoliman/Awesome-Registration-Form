@@ -1,4 +1,4 @@
-# Registration-Form
+# Awesome Registration Form
 Developed using JS, Bootstrap, CSS§ & HTML5.
 
 Year of Creation: 2015
