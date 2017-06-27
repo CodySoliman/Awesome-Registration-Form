@@ -1,0 +1,43 @@
+body
+{
+	margin: auto;
+}
+
+.music
+{
+	margin-left: 25px;
+}
+
+th, .buttons
+{
+	border: 0px;
+}
+
+.form-group select, .inline-input {
+    display: inline-block;
+    width: auto;
+}
+
+p.validity_check
+{
+	margin-bottom: 0px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.colored
+{
+	background-color: red;
+	display: inline-block;
+}
+
+.dropdown-menu
+{
+    min-width: initial;
+}
+
+.scrollable-menu {
+    height: auto;
+    max-height: 350px;
+    overflow-x: hidden;
+}
